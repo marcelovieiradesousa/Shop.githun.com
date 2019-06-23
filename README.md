@@ -1,2 +1,2 @@
-# Shop.githun.com
+# Shop.github.com
 Prática web
