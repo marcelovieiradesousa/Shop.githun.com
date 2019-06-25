@@ -1,3 +1,10 @@
 #mapa2{
     width: 100vw
 }
+.copyright{
+    display: flex;
+    justify-content: space-between;
+}
+.copyright div{
+    font-size: 1.3em;
+}

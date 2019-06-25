@@ -1,0 +1,9 @@
+.triade{
+    display: flex;
+    justify-content: space-between;
+}
+@media(max-width:600px){
+    .triade{
+        flex-wrap: wrap;
+    }
+}
