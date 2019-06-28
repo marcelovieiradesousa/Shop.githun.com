@@ -28,7 +28,7 @@ body, article{
     display: inline-block;
     margin: 0;
     list-style: none;
-    padding: 10px 15px;
+    padding: 10px 11px;
     border: 1px solid tomato;
     cursor: pointer;
     -webkit-transition: all.5s ease; 
@@ -78,10 +78,9 @@ footer{
     top: 290px;
     
 }
-@media(max-width:600){
+@media(max-width:600px){
     .portfolio-item{
-        width: 100vw;
-        padding: 0;
-        margin-bottom: 80px;
+        padding: 0 30px;
+        
     }
 }
