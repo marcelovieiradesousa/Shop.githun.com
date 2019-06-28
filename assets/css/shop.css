@@ -44,7 +44,7 @@ body, article{
 }
 .portfolio-item{
     width: 100vw;
-    padding: 0 35px;
+    padding: 0 135px;
     margin-bottom: 80px;
 }
 .portfolio-item .item{
@@ -77,4 +77,11 @@ footer{
     position: relative;
     top: 290px;
     
+}
+@media(max-width:600){
+    .portfolio-item{
+        width: 100vw;
+        padding: 0;
+        margin-bottom: 80px;
+    }
 }
